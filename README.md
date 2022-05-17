@@ -1,7 +1,7 @@
 <h1>Seja Bem Vindo (a) ⌨️</h1>
 <h2>Olá! Meu nome é Maria Eduarda! 😄</h2>
-<h2>📫 Me contrate em: dudahais28@gmail.com</h2>
-<h2>📒 Sou estudante do Instituto PROA</h2>
+<h4>📫 Me contrate em: dudahais28@gmail.com</h4>
+<h5>📒 Sou estudante do Instituto PROA</h5>
 
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
