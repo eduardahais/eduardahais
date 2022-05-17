@@ -20,7 +20,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardahais&show_icons=true&theme=darklogoColor=000000"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardahais&layout=compact&langs_count=7&theme=dark"/>
 </div>
- Technologies
+ 
 
   <div style="display:inline_block"><br>
  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -30,4 +30,3 @@
  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
  </div>
-© 2022 GitHub, Inc.
